@@ -7,7 +7,14 @@
   <body>
 
     <script>
-     d3.select("body").style("background-color", "black"); 
+      var svg = d3.select("body").append("svg");
+
+      svg.selectAll("circle")
+      .data([{ x: 10, y: 30}, { x: 60, y: 200}])
+        .enter().append("circle")
+          .attr("cx", function(d) { return d.x; })
+          .attr("cy", function(d) { return d.y; })
+          .attr("r", 2.5);
     </script>
   
   </body>
