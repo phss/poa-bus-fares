@@ -1,6 +1,14 @@
 # poa-bus-fares
 
-This project aims to provide some analyisis of Porto Alegre's bus fares and companies.
+This project aims to provide some analysis and visualization of Porto Alegre's bus fares and companies.
+
+A few questions I would like to explore are:
+
+* What's the market/passenger share between the bus companies?
+* Did the fare rise proportionally to economic growth/inflation?
+* What's the passenger revenue in the last 10 years?
+* Has the quality and security of the bus service improved over the last 10 years?
+* Does the number of cars have an impact of the bus service/revenue?
 
 It's inspired by the following blog, which provides a visualization of São Paulo's transport system: http://www.oeco.org.br/datacidades/27318-raio-x-do-sistema-de-transporte-municipal-de-sao-paulo
 
