@@ -14,7 +14,15 @@ It's inspired by the following blog, which provides a visualization of São Paul
 
 ## Sources
 
-The raw data was extracted from EPTC's webite (http://www2.portoalegre.rs.gov.br/eptc/default.php?p_secao=155) and stored under 'data/raw'.
+The raw data was extracted and stored under 'data/raw'.
+
+Source websites:
+
+* EPTC: http://www2.portoalegre.rs.gov.br/eptc/default.php?p_secao=155
+* Fundação Getulio Vargas (FGV): http://portalibre.fgv.br
+* Portal Brasil: http://www.portalbrasil.net
+
+Individual raw data:
 
 | Source | Data | Link | Extraction Date |
 | ------ | ---- | ---- | ----------------|
@@ -27,3 +35,5 @@ The raw data was extracted from EPTC's webite (http://www2.portoalegre.rs.gov.br
 | EPTC | Bus trips completed | [indice_cumprimento_viagens_icv_2012.pdf](http://lproweb.procempa.com.br/pmpa/prefpoa/eptc/usu_doc/indice_cumprimento_viagens_icv_2012.pdf) | 2013-07-08 |
 | EPTC | Failed maintenance checks | [vistoria_2012.pdf](http://lproweb.procempa.com.br/pmpa/prefpoa/eptc/usu_doc/vistoria_2012.pdf) | 2013-07-08 |
 | EPTC | Fleet age | [idade_frota_2012.pdf](http://lproweb.procempa.com.br/pmpa/prefpoa/eptc/usu_doc/idade_frota_2012.pdf) | 2013-07-08 |
+| FGV/Portal Brasil | Inflation (IGP-DI) | [igp.html](http://www.portalbrasil.net/igp.htm) | 2013-07-09 |
+
