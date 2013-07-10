@@ -16,13 +16,13 @@ It's inspired by the following blog, which provides a visualization of São Paul
 
 The raw data was extracted and stored under 'data/raw'.
 
-Source websites:
+The following organizations were used as sources of data:
 
 * EPTC: http://www2.portoalegre.rs.gov.br/eptc/default.php?p_secao=155
 * Fundação Getulio Vargas (FGV): http://portalibre.fgv.br
 * Portal Brasil: http://www.portalbrasil.net
 
-Individual raw data:
+Individual raw data sources:
 
 | Source | Data | Link | Extraction Date |
 | ------ | ---- | ---- | ----------------|
